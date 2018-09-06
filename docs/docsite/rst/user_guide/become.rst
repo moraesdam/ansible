@@ -4,7 +4,7 @@
 Understanding Privilege Escalation
 **********************************
 
-Ansible can use existing privilege escalation systems to allow a user to execute tasks as another.
+Ansible can use existing privilege escalation systems to allow to execute tasks as another user.
 
 .. contents:: Topics
 
